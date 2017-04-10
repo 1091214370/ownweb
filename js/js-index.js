@@ -25,11 +25,11 @@ window.onload=function(){
 			lists[a].style.opacity="0";
 			setTimeout(function(){
 				lis[a].style.background="#16d069";
-			lists[a].style.display="block";
-			lists[a].style.transitionDelay="0";
-			lists[a].style.transitionDuration="800ms";
-			lists[a].style.transform="scale(1)";
-			lists[a].style.opacity="1";
+				lists[a].style.display="block";
+				lists[a].style.transitionDelay="0";
+				lists[a].style.transitionDuration="800ms";
+				lists[a].style.transform="scale(1)";
+				lists[a].style.opacity="1";
 			},500);
 			}
 	}
