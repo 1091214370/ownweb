@@ -143,11 +143,11 @@ a {
 .box .list .infor,
 .name {
     width: 50rem;
-    /*height: 5rem;*/
     margin-top: 2rem;
     font-size: 1.8rem;
     line-height: 1.8rem;
     text-align: center;
+    overflow: hidden;
 }
 
 .box .list .name span {
@@ -171,7 +171,6 @@ a {
     font-size: 1.6rem;
     text-align: left;
     margin-left: 2rem;
-    margin-top: 2rem;
 }
 
 .box .demo ul li {
