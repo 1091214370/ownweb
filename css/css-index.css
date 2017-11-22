@@ -131,10 +131,10 @@ a {
 }
 
 .box .list .img-me {
-    width: 15rem;
-    height: 20rem;
+    width: 10rem;
+    height: 12.5rem;
     background: url(../img/me.jpg);
-    background-size: 15rem 20rem;
+    background-size: 10rem 12.5rem;
     display: block;
     border-radius: 1rem;
     margin: auto;
